@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{B1E792BE-AA5F-4E3C-8C82-674BF9C0715B}") = "PML_Base_PLC_Project", "PML_Base_PLC_Project\PML_Base_PLC_Project.tsproj", "{B44BE57E-1878-4681-B666-B97D059564AB}"
+Project("{B1E792BE-AA5F-4E3C-8C82-674BF9C0715B}") = "PML_Base_X4", "PML_Base_PLC_Project\PML_Base_X4.tsproj", "{B44BE57E-1878-4681-B666-B97D059564AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
